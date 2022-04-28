@@ -1,6 +1,7 @@
-# brief-8-WordPress
+<!-- # brief-8-WordPress -->
 
-<h1>How to install wordpress</h1>
+<h3>How to install wordpress</h3>
 <hr>
-<h3 style="color: brown; font-family: 'poppins'; font-size: 1.2rem;">Step 1: Install WordPress Using The Bitnami WordPress Stack</h3>
+<h5>Step 1: Install WordPress Using The Bitnami WordPress Stack</h5>
+
 
