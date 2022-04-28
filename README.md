@@ -10,7 +10,7 @@
     <br>
     Select the installation language if prompted. You will be greeted by the welcome screen. Click “Next” to proceed.
     <br>
-    <img src="img/tutorial-image11.png" alt="" style="width: 200px;">
+    <img src="img/tutorial-image11.png" alt="" style="width: 200px; margin:1rem 0;">
     <br>
     On the resulting component selection screen, select “WordPress”. You may optionally also choose to install phpMyAdmin and Varnish (TM). Click “Next” to proceed.
     <br>
