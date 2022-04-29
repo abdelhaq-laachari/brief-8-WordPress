@@ -29,7 +29,9 @@
     <br>
     2.4: Now, we have been placed WordPress files on the local XAMPP server. It’s time to access WordPress in our browser for installation and configuration.
     <br>
-    2.5: Open the browser and go to the localhost/wordpress folder. <br> <strong>Note:</strong> localhost means this computer and wordpress is the folder that we have been created already.
+    2.5: Open the browser and go to the localhost/wordpress folder. 
+    <br> 
+    <strong>Note:</strong> localhost means this computer and wordpress is the folder that we have been created already.
     <br>
     <img src="img/6.webp" alt="" style="width: 200px; margin:1rem;">
     <br>
@@ -72,5 +74,11 @@
     <br>
     <img src="img/12.webp" alt="" style="width: 200px; margin:1rem;">
     <br>
-    
+    4.4: Here you go. You will enter your new website details here. <strong>Site title</strong>, <strong>username</strong>, <strong>password</strong>, and <strong>correct email</strong> then click on install WordPress.
+    <br>
+    <img src="img/13.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    <strong>Note:</strong> Remember your username and password because you will need that to log in to the WordPress website.
+    <br>
+
 </p>
