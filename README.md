@@ -107,5 +107,6 @@
     Now we have successfully installed WordPress on localhost. Now, you can customize your website as you want. Just remember these two points below.
     <br>
     <strong>Username</strong>: abdelhaq
+    <br>
     <strong>Password</strong>: abdo
 </p>
