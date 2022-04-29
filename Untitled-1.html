@@ -80,5 +80,29 @@
     <br>
     <strong>Note:</strong> Remember your username and password because you will need that to log in to the WordPress website.
     <br>
-
+    WordPress will install in a minute. After that click on the login button.
+    <br>
+    <img src="img/14.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    4.5: Enter your login details and click login.
+    <br>
+    <img src="img/15.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    4.6: After clicking on login, it will take you to the WordPress dashboard.
+    <br>
+    <img src="img/16.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    <strong>Congratulations</strong>! We have installed WordPress on localhost.
+    <br>
+    4.7: At the WordPress site, click on your site name to go to the site. In my case, I created this site with the Test Site name. So, I click on that. As shown in the image below.
+    <br>
+    <img src="img/17.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    <img src="img/18.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    By default, WordPress is using the 2021 theme.
+    <br>
+    <strong>All Done!</strong> Congratulations you have installed WordPress on localhost with XAMPP.
+    <br>
+    Now we have successfully installed WordPress on localhost. Now, you can customize your website as you want. Just remember these two points below.
 </p>
