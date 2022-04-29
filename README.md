@@ -105,4 +105,7 @@
     <strong>All Done!</strong> Congratulations you have installed WordPress on localhost with XAMPP.
     <br>
     Now we have successfully installed WordPress on localhost. Now, you can customize your website as you want. Just remember these two points below.
+    <br>
+    <strong>Username</strong>: abdelhaq
+    <strong>Password</strong>: abdo
 </p>
