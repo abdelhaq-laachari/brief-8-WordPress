@@ -43,6 +43,34 @@
     <br>
     3.1: As you can see in the above image, it is asking for.
     <ul>
-        <li>Database name</li>
+        <li><strong>Database name</strong></li>
+        <li><strong>Username</strong></li>
+        <li><strong>Password</strong></li>
+        <li><strong>Database host</strong></li>
+        <li><strong>Table prefix</strong></li>
     </ul>
+    <br>
+    3.2: Now, open a new tab in your browser and type localhost/PHPMyAdmin. This will take us to the place where we will create a new database.
+    <br>
+    <img src="img/8.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    3.3: Now, we will create a new database named wordpress.
+    <br>
+    <img src="img/9.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    <h3>Step 4: Configure and Install WordPress</h3>
+    <br>
+    4.1: After that go to the WordPress setup configuration page and click on the <strong>let’s go</strong>button. As shown below.
+    <br>
+    <img src="img/10.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    4.2: Now, enter the <strong>database name</strong>, <strong>username</strong>, <strong>password</strong>, and <strong>hostname</strong>. Then click on submit button.
+    <br>
+    <img src="img/11.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    4.3: Click on Run the installation.
+    <br>
+    <img src="img/12.webp" alt="" style="width: 200px; margin:1rem;">
+    <br>
+    
 </p>
